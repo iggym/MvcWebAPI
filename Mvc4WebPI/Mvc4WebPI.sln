@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc4WebPI", "Mvc4WebPI\Mvc4WebPI.csproj", "{E88F2ABD-8185-4E3A-8540-4859668E04A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc4WebPI.Tests", "Mvc4WebPI.Tests\Mvc4WebPI.Tests.csproj", "{796F58D9-6017-440C-AAA8-E973C5F9383A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88F2ABD-8185-4E3A-8540-4859668E04A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88F2ABD-8185-4E3A-8540-4859668E04A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88F2ABD-8185-4E3A-8540-4859668E04A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88F2ABD-8185-4E3A-8540-4859668E04A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796F58D9-6017-440C-AAA8-E973C5F9383A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796F58D9-6017-440C-AAA8-E973C5F9383A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796F58D9-6017-440C-AAA8-E973C5F9383A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796F58D9-6017-440C-AAA8-E973C5F9383A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
